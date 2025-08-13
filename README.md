@@ -1,4 +1,4 @@
 # repo11
 this is my first repository. 
 <br>
-Author - Prithvi
+Author - Prithvi (singh)
